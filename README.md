@@ -3,7 +3,7 @@
 
 # 主要功能
 - GPT + Google搜尋
-= GPT Function Calling
+- GPT Function Calling
 - LangChain Agents
 - LangGraph
 - LangSmith 記錄查詢過程
